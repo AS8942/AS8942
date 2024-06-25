@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AS8942
-- 👀 I’m interested in Training ML models and Ethical Hacking 
-- 🌱 I’m currently learning GPT systems
+- 👀 I’m interested in Python development, App development, Training ML models and Ethical Hacking
 - 😄 Pronouns: AH-64G Apache Attack Helicopter
 - ⚡ Fun fact: Tomato is mankind's favourite fruit
 
